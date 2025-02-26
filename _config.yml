@@ -1,0 +1,8 @@
+title: "Alvin's  Ethical Hacking "
+descriptio: "Documenting my journey in ethical hacking and cyber security"
+theme: minima
+plugins:
+  -jekyll-feed 
+
+
+
